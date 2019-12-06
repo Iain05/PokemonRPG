@@ -1,0 +1,25 @@
+#-------------------------------
+022 # Gardenia Town
+25,10,10
+SuperRod
+FEEBAS,30,45
+FEEBAS,30,45
+FEEBAS,30,45
+FEEBAS,30,45
+MILOTIC,30,45
+#-------------------------------
+033 # Route 1
+25,10,10
+Land
+PIDGEY,3,5
+ZIGZAGOON,2,4
+RATTATA,2,4
+BIDOOF,2,4
+SENTRET,2,4
+PATRAT,3,4
+LILLIPUP,2,4
+PURRLOIN,2,5
+STARLY,2,4
+CINCCINO,2,4
+BUNEARY,2,4
+CHATOT,2,4
